@@ -1,16 +1,38 @@
-### Hi there 👋
+![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Vue](https://img.shields.io/badge/vue-42b983.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![MariaDB](https://img.shields.io/badge/sql-4e629a?style=for-the-badge&logo=mariadb&logoColor=white)
+![RegEx](https://img.shields.io/badge/regex-223c6e.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAAqCAQAAACzM3XnAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfmARQXEiHDJm4/AAAAEGNhTnYAAABmAAAAZgAAAA0AAAAe0MYj0wAAAcNJREFUWMPVmT1OAzEQhd9YdGmRuAC0lEjU3IRD0OYoFCm24Ao5AxK05ByUGYrsJv4Zrz3eSRxelaztN5/HXsd2gEA8sCc0qd7Br8lDWEZxVa+I0CSNR76us8bSyY8S5tflCnrIJ3Bylcvkay7SEcwwX7ftTU8UIy8T9uVeNNhXOQVJccTAKWP7GoOcLTMzv1TVKo/LXmzWsnoFqxEHT94Admn5vMeY6ySV6oHUdUV2TwlcnZ0VVr0SsMstFPNRHcDbHihz4i1AS2dYYhoNba1fTLF4jkX2nyVQVR89fS0EE1XV8iNpsXwHNo/FzE/a1qZgAcqj3jes73i9LEtH23v/G33HQZVua7vJ/xM/CN9HLZoRmO2SYwhGhFfxaTOs2VDSOxEeZAQifQ5vrMAAgHYgvguRmr16nI1khRzGP0l2+i9g/c6WceSrztiuN4Sk5DDS672MGdxchT5YB131HFMOn9VGKacDzXR3Ubk70N5KVHZViD4N5bPW4GxzMSYpHx94E+3kN1b5kiJnrhqlgUpxbYZTjuvKlc+rXCQPrNT/uNx+KfYdXa5A7Mlv5nOzKq/TAQxyo7HpampMRCtbLER/QPwBUyCmr4ydqcsAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjItMDEtMjBUMjM6MTg6MjQrMDA6MDAZhavUAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIyLTAxLTIwVDIzOjE4OjI0KzAwOjAwaNgTaAAAAABJRU5ErkJggg==&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F48120?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Android](https://img.shields.io/badge/Android-1ea853?style=for-the-badge&logo=android&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<!--
-**JustEli/JustEli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
+Retired
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Future
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 -->
