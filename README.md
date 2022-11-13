@@ -8,7 +8,7 @@
 ![Vue](https://img.shields.io/badge/vue-42B983.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwind-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Java](https://img.shields.io/badge/java-57849E.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-57849E.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Caddy](https://img.shields.io/badge/caddy-5aa3dc.svg?style=for-the-badge&logo=caddy&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
