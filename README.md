@@ -20,6 +20,8 @@
 ![IntelliJ](https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 
+Experienced (8+ years) in programming backends (Java), databases (SQL), Discord bots (Java), webservers (Java), Vue websites (JS), Minecraft plugins (Java), ESP/AVR microcontrollers (C++); managing DNS, Linux servers (Debian); using RegEx, MQTT, Redis. hmu
+
 <!-- 
 Retired
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
