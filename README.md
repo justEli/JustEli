@@ -1,6 +1,7 @@
 ![Debian](https://img.shields.io/badge/debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-F46623.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-F48120?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/js-FCDA37.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,9 +20,8 @@
 ![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 
-Experienced (8+ years) in programming backends (Java), databases (SQL), Discord bots (Java), webservers (Java), Vue websites (JS), Minecraft plugins (Java), ESP/AVR microcontrollers (C++), reports (LaTeX); managing DNS, Linux servers (Debian, Alpine), Docker, firewalls; using RegEx, SSH, AMQP, MQTT, Redis. hmu
+Experienced (8+ years) in programming backends (Java), databases (SQL), Discord bots (Java), webservers (Java, Rust), Vue websites (JS), Minecraft plugins (Java), ESP/AVR microcontrollers (C++), reports (LaTeX); managing DNS, Linux servers (Debian, Alpine), Docker, firewalls; using RegEx, SSH, AMQP, MQTT, Redis. hmu
 
 <!-- 
 Retired
