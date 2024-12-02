@@ -9,7 +9,6 @@
 ![Vue](https://img.shields.io/badge/vue-42B983.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwind-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Arduino](https://img.shields.io/badge/arduino-008184?style=for-the-badge&logo=arduino&logoColor=white)
 ![Alpine](https://img.shields.io/badge/alpine-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![RegEx](https://img.shields.io/badge/regex-223C6E.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAAqCAQAAACzM3XnAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfmARQXEiHDJm4/AAAAEGNhTnYAAABmAAAAZgAAAA0AAAAe0MYj0wAAAcNJREFUWMPVmT1OAzEQhd9YdGmRuAC0lEjU3IRD0OYoFCm24Ao5AxK05ByUGYrsJv4Zrz3eSRxelaztN5/HXsd2gEA8sCc0qd7Br8lDWEZxVa+I0CSNR76us8bSyY8S5tflCnrIJ3Bylcvkay7SEcwwX7ftTU8UIy8T9uVeNNhXOQVJccTAKWP7GoOcLTMzv1TVKo/LXmzWsnoFqxEHT94Admn5vMeY6ySV6oHUdUV2TwlcnZ0VVr0SsMstFPNRHcDbHihz4i1AS2dYYhoNba1fTLF4jkX2nyVQVR89fS0EE1XV8iNpsXwHNo/FzE/a1qZgAcqj3jes73i9LEtH23v/G33HQZVua7vJ/xM/CN9HLZoRmO2SYwhGhFfxaTOs2VDSOxEeZAQifQ5vrMAAgHYgvguRmr16nI1khRzGP0l2+i9g/c6WceSrztiuN4Sk5DDS672MGdxchT5YB131HFMOn9VGKacDzXR3Ubk70N5KVHZViD4N5bPW4GxzMSYpHx94E+3kN1b5kiJnrhqlgUpxbYZTjuvKlc+rXCQPrNT/uNx+KfYdXa5A7Mlv5nOzKq/TAQxyo7HpampMRCtbLER/QPwBUyCmr4ydqcsAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjItMDEtMjBUMjM6MTg6MjQrMDA6MDAZhavUAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIyLTAxLTIwVDIzOjE4OjI0KzAwOjAwaNgTaAAAAABJRU5ErkJggg==&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariadb-4E629A?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -21,26 +20,13 @@
 ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-Experienced (8+ years) in programming backends (Java), databases (SQL), Discord bots (Java), webservers (Java, Rust), Vue websites (JS), Minecraft plugins (Java), ESP/AVR microcontrollers (C++), reports (LaTeX); managing DNS, Linux servers (Debian, Alpine), Docker, firewalls; using RegEx, SSH, AMQP, MQTT, Redis. hmu
+Experienced (8+ years) in:
+- programming backends (Java), databases (SQL, CQL), Discord bots (Java), webservers (Java, Rust), websites (Vue, JS), Minecraft plugins (Java), ESP/AVR microcontrollers (C, C++), reports (LaTeX);
+- managing DNS, Linux servers (Debian, Alpine), Docker, firewalls, proxies (nginx, Caddy);
+- using RegEx, SSH, AMQP, MQTT, Redis.
 
-<!-- 
-Retired
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-Not actively (anymore)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-Future
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+<!--
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-008184?style=for-the-badge&logo=arduino&logoColor=white)
 -->
